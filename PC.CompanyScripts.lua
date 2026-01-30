@@ -19,7 +19,7 @@ local function IniciarIntro()
     Background.Parent = ScreenGui
 
     local Sound = Instance.new("Sound")
-    Sound.SoundId = "rbxassetid://109233656094126"
+    Sound.SoundId = "rbxassetid://86791932826546"
     Sound.Volume = 2
     Sound.Parent = game.Workspace
     Sound:Play()
